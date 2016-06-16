@@ -1,6 +1,6 @@
 # Typescript Framework-Consumer Recipe
 
-This is a recipe creating a distributable library in NodeJS and use it in another NodeJS application.
+This is a recipe for creating a distributable library in NodeJS and use it in another NodeJS application.
 
 [![Demo](https://i.vimeocdn.com/video/576178701_640x480.jpg)](https://vimeo.com/170933391)
 
