@@ -1,0 +1,15 @@
+{
+  "name": "demo-framework",
+  "version": "1.0.23",
+  "description": "",
+  "main": "dist/demo-framework.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}

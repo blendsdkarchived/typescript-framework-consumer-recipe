@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "demo-framework": "file:node_modules/demo-framework/dist/demo-framework.d.ts"
+  },
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20160613154055"
+  }
+}

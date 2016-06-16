@@ -1,0 +1,4 @@
+rm -fR dist;
+tsc
+#npm version patch
+#npm publish

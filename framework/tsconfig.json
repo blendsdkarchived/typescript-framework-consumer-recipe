@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": true,
+        "inlineSourceMap": true,
+        "inlineSources": true,
+        "outDir": "dist",
+        "declaration": true
+    },
+    "files": [
+        "typings/index.d.ts",
+
+        "src/system/Application.ts",
+        "src/system/system.ts",
+
+        "src/npm/Package.ts",
+        "src/npm/npm.ts",
+
+        "src/demo-framework.ts"
+    ]
+}
